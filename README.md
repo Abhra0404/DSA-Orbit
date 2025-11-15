@@ -10,7 +10,6 @@
 [![Lucide](https://img.shields.io/badge/Lucide_Icons-000000?style=flat&logo=lucide&logoColor=white)](https://lucide.dev)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat)](https://opensource.org/licenses/MIT)
 [![Made in India](https://img.shields.io/badge/Made%20in-India-%23FF9933.svg?style=flat&logo=india&logoColor=white)](https://en.wikipedia.org/wiki/India)
-[![Stars](https://img.shields.io/github/stars/Abhra0404/dsa-orbit?style=social)](https://github.com/Abhra0404/dsa-orbit)
 
 ---
 
